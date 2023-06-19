@@ -1,4 +1,4 @@
-# Nanosilica
+# Evidence-Based Prediction of Cellular Toxicity for Amorphous Silica Nanoparticles
 <img width="1402" alt="Press release" src="https://github.com/martinj-phs/nanosilica/assets/98748341/47d0851b-6fee-4b25-b30e-3175cf0065b5">
 
 Please go to this link and follow the following steps: 
