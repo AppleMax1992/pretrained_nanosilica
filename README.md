@@ -1,5 +1,5 @@
 # Nanosilica
-![Press release](https://github.com/martinj-phs/nanosilica/assets/98748341/ae67bca9-228d-4ab9-8900-aec25b2a0640)
+<img width="1402" alt="Press release" src="https://github.com/martinj-phs/nanosilica/assets/98748341/47d0851b-6fee-4b25-b30e-3175cf0065b5">
 
 Please go to this link and follow the following steps: 
 https://colab.research.google.com/drive/1ptH28bBI1ktgrUFSYPY-ohBk_meUcbjn?usp=sharing
