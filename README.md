@@ -11,6 +11,7 @@ https://colab.research.google.com/drive/1ptH28bBI1ktgrUFSYPY-ohBk_meUcbjn?usp=sh
 5. Decision-making rationality of your new samples can be obtained by running the last line of code
 
 [see our _ACS Nano_ paper](https://doi.org/10.1021/acsnano.2c11968)
+
 [Press release](https://www.phs.osaka-u.ac.jp/researchNews/newsDetail.php?id=16)
 
 Contact: martinj.phs@gmail.com
